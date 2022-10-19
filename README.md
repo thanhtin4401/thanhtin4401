@@ -36,22 +36,14 @@ src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-
 <b>My GitHub Stats</b>
 
 <br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
 <div align=center>
-  <a href="#" title="Tindeve">
-  <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true"
-        alt="thanhtin4401's GitHub stats"
-    />
+  <a href="#" title="thanhtin4401">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="thanhtin4401">
-   <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtin4401&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-    />
-  </a>
-
-  <a href="#" title="thanhtin4401">
-     <img align="center top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> 
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
