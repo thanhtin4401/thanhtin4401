@@ -21,9 +21,9 @@ src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662806583/My-portfolio/social-square.b622e290e82093c36cca57092ffe494f_wnkwc6.png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662805058/My-portfolio/1280px-Sass_Logo_Color.svg_xprzot.png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662806584/My-portfolio/Layer_1_f0mcv6.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
