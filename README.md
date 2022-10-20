@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-
 
 <p align="left"><a href="https://www.github.com/thanhtin4401" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/thanhtin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://thanhtin4401.github.io/myWebSite/" target="_blank" rel="noreferrer"><img src="icon" href="https://res.cloudinary.com/dvzingci9/image/upload/v1653014724/My-portfolio/logo1_optimized_zwbt6t.png" width="32" height="32" /></a></p>
+<a href="https://thanhtin4401.github.io/myWebSite/" target="_blank" rel="noreferrer"><img src="icon" href="https://res.cloudinary.com/dvzingci9/image/upload/v1666231902/My-portfolio/logo1_optimized_zwbt6t_adobe_express_v1bg4q.svg" style="background:transpa"style="background-color:transparent" width="32" height="32" /></a></p>
 
 ### Badges
 
