@@ -26,6 +26,7 @@ src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662805058/My-portfolio/1280px-Sass_Logo_Color.svg_xprzot.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662806584/My-portfolio/Layer_1_f0mcv6.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.Node.js.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
