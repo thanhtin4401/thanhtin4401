@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanh Tin
-
+<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 I'm a Web Developer and UI/UX designer
 
 - 🌍  I'm based in HCM
@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-
 <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dvzingci9/image/upload/v1662806584/My-portfolio/Layer_1_f0mcv6.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://ci6.googleusercontent.com/proxy/Ud-khzT51bLnOIwvW6to_TeNlUXx4LSL_akqjv6bQOHBsaanwQpFEJ_0Uwf71osI5CHmlbPeBsAXWB8DOptDGMDmB0qKNIzgNZBrwCMhOSfogpQRebu9WiDTBs5C6AFadiS7haYdKoQ9gjTc8GuI1bvzxS4RxJfb0C6wNpc=s0-d-e1-ft" width="36" height="36" alt="MySQL" />
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="cypress" width="40" height="40"/> </a>
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
