@@ -7,6 +7,9 @@ I'm a Web Developer and UI/UX designer
 
 <a href="https://www.github.com/thanhtin4401" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thanhtin4401?logo=github&style=for-the-badge&color=facc15&labelColor=22272e" /></a>
+### Freelance
+<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
 
 ### Skills
 
